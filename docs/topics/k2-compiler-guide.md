@@ -542,7 +542,7 @@ Kotlin Playground supports the %kotlinEapVersion% release. [Check it out!](https
 
 ## Support in IntelliJ IDEA
 
-IntelliJ IDEA can use the new K2 compiler to analyze your code with its K2 Kotlin mode from [IntelliJ IDEA 2024.1 EAP 1](https://blog.jetbrains.com/idea/2024/01/intellij-idea-2024-1/#intellij-idea%\E2%80%99s-k2-kotlin-mode-now-in-alpha).
+IntelliJ IDEA can use the new K2 compiler to analyze your code with its K2 Kotlin mode from [IntelliJ IDEA 2024.1](https://blog.jetbrains.com/idea/2024/03/k2-kotlin-mode-alpha-in-intellij-idea/).
 
 > The K2 Kotlin mode is in Alpha. The performance and stability of code highlighting and code completion have been improved,
 > but not all IDE features are supported yet.
